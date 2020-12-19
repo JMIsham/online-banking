@@ -1,5 +1,6 @@
 # Mobile Banking Apps
 Conducted by - Isham Mohamed (jazeem.20@cse.mrt.ac.lk), University of Moratuwa  
+Online Form - [Factors Affecting Online Banking Applications](https://forms.gle/rwLhUxB9VoZbBPvA8)  
 This study is conducted to learn why people are not using mobile banking applications in Sri Lanka. The features can be divided into 3 sections.
 ## Section 1 - User Information 
 - District - categorical - one of the 24 districts of Sri Lanka 
